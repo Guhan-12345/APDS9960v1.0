@@ -20,7 +20,7 @@ let GESTURE_SENSITIVITY_2 = 18
 let ERROR = 0xFF
 
 /* Acceptable device IDs */
-let APDS9960_ID_1 = 0xAB
+let APDS9960_ID_1 = 0xA8
 let APDS9960_ID_2 = 0x9C
 
 /* Misc parameters */
